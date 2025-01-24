@@ -1,0 +1,119 @@
+body{
+   
+    background-size: cover;
+    background-color: #F8FAFC;
+   
+    
+    }
+    h1{
+        font-family: "Poppins";
+        font-size: 52px;
+        
+    }
+    
+    header p{
+        width:494px;
+        height:60px;
+        top:245px;
+        left:6912px;
+        font-family:"poppins";
+        weight:400;
+        font-size: 18px;
+        line-height: 30px;
+        
+
+    }
+    .form-group{
+        
+        width:533px;
+        height:484px;
+        background-color: #ffffff;
+        margin:0 auto;
+        margin-top:100px;
+        top: 375px;
+        left: 6892px;
+       border: hex;
+        padding-top:10px;
+        padding-left:10px;
+        padding-right: 10px;
+        padding-bottom: 10px;
+        border-radius:15px;
+        color:rgb(214, 208, 208);
+        font-weight:bolder;
+        box-shadow: inset -4px -4px rgba(201, 189, 189, 0.5);
+        
+    }
+
+    .form-group input[type="email"]{
+        
+        width:472.44px;
+        height:65px;
+        padding-left:16px;
+        border-radius:1px;
+        top:387px;
+        left:6922px;
+        radius:9px;
+        gap:10px;
+        text-align: center;
+       
+        
+    }
+    .form-group input[type="password"]{
+        
+        width:472.44px;
+        height:65px;
+        padding-left:16px;
+        border-radius:1px;
+        top:476px;
+        left:6922px;
+        radius:9px;
+        gap:10px;
+        text-align: center;
+       
+        
+    }
+.form-group [type="submit"]{
+        
+        width:472px;
+        height:65px;
+        padding-left:16px;
+        border:0;
+        border-radius:15px;
+        background-color:#2563EB;
+        font-weight:bolder;
+        radius:9px;
+        gap:10px;
+        left:6922px;
+        top:611px;
+        font-size: 15px;
+        color:#ffffff;
+
+    }
+    .form-group [type="button"]{
+        width:472px;
+        height:65px;
+        top:700px;
+        left:6922px;
+        radius:10px;
+        padding-left:16px;
+        gap:10px;
+        color:#241f1f;
+        font-weight:bolder;
+        background-color: #faf8f8;
+        font-size: 18px;
+        radius:2px;
+        border-color: #ffffff;
+        background:transparent;
+        
+        
+    }
+    .checkbox{
+        align-items: center;
+        color:#696464;
+        padding-right: 250px;
+    }
+    .form-group p{
+        color:#696464;
+        font-family:poppins;
+    }
+    
